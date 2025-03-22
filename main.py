@@ -1,7 +1,7 @@
 #!/bin/env python
 # -*- coding: utf-8 -*-
 """
-Directory Traversal Tool - Convert text files in specified directories to Markdown code blocks
+code2md - Convert text files in specified directories to Markdown code blocks
 Version: 0.0.1
 Features:
 1. Support recursive traversal and multiple filtering criteria
